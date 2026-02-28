@@ -1,5 +1,6 @@
 # Aether
-Kasey Flight Lab FSW
+Kasey Flight Lab FSW. 
+Contributor: Bex & Kent
 
 ## Installing Prerequisites
 First, install the arm toolchain. If you are on a Unix system, simply use your package installer, for example in Ubuntu: ```sudo apt-get install arm-none-eabi-gcc```.
